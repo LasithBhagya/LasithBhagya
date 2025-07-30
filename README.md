@@ -2,7 +2,7 @@
 
 - I'm currently in high school learning Mathematics with CS.
 
-There is nothing more to talk about me really, I like to keep a low profile and do what I love, coding 😊
+There is nothing more to talk about me, I like to keep a low profile and do what I love, coding 😊
 I've a lot of unfinished projects I never even committed to GitHub. Honesty, I don't have a purpose yet...
 Just letting my imagination take control. Trying to find who I am.
 
@@ -18,6 +18,7 @@ I have experience in,
 - React, Django, Svelte, etc (framework-ish things)
 
 For the record, I don't have any certificates to prove I've learned them. I learned them just because I want to 🤷‍♂️, just because I can 😎. (Online self-learning materials)
+I think I can say 'I grew up with them'. (Almost 6-year journey starting from Web Development to Software Development languages)
 
 <!--
 **LasithBhagya/LasithBhagya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
