@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Laith.
+
+- I'm currently in high school learning Mathematics with CS.
+
+There is nothing more to talk about me really, I like to keep a low profile and do what I love, coding 😊
 
 <!--
 **LasithBhagya/LasithBhagya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
