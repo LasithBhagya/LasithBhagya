@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Laith.
+## Hi there 👋, I'm Lasith.
 
 - I'm currently in high school learning Mathematics with CS.
 
